@@ -20,8 +20,6 @@ containerBtn.classList.add('app__container-btn');
 btnStart.classList.add('app__btn-start');
 btnEnd.classList.add('app__btn-end');
 
-
-
 btnStart.textContent = 'START';
 btnEnd.textContent = 'END';
 
